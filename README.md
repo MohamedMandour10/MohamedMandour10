@@ -1,11 +1,15 @@
-# Welcome to my Portfolio!
+<h1 align="center">Hi 👋, I'm Mohamed El-Sayed</h1>
 
-Hey there! Welcome to my GitHub repository, where I showcase my projects as a biomedical engineer passionate about AI and UI/UX design. Here, you'll find a collection of my works that reflect my journey and expertise in these exciting fields.
+Welcome to my GitHub repository, where I showcase my projects as a biomedical engineer passionate about AI and UI/UX design. Here, you'll find a collection of my works that reflect my journey and expertise in these exciting fields.
+# ![](https://komarev.com/ghpvc/?username=MohamedMandour10&color=green)
 
 ## About Me
 
 I'm currently a biomedical engineer at the Faculty of Engineering, Cairo University. I am fascinated by the intersection of technology and healthcare. With a keen interest in artificial intelligence and user interface/user experience (UI/UX) design.
 
+- 📫 How to reach me **mhmdabomandour11@gmail.com**
+-  **[![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://shorturl.at/fyHKV)**
+  
 ## Skills and Experience
 
 📊 Data Analysis: 
@@ -20,6 +24,5 @@ I'm currently a biomedical engineer at the Faculty of Engineering, Cairo Univers
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMandour10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=MohamedMandour10&color=green)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMandour10&" alt="MohamedMandour10" /></p>
 
