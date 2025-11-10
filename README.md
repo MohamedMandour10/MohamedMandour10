@@ -5,10 +5,10 @@ Welcome to my GitHub repository, where I showcase my projects as a biomedical en
 
 ## About Me
 
-I'm currently a biomedical engineer at the Faculty of Engineering, Cairo University. I am fascinated by the intersection of technology and healthcare. With a keen interest in artificial intelligence and user interface/user experience (UI/UX) design.
+I'm currently a biomedical engineer at the Faculty of Engineering, Cairo University. I am fascinated by the intersection of technology and healthcare. I have a keen interest in artificial intelligence and user interface/user experience (UI/UX) design.
 
 - 📫 How to reach me **mhmdabomandour11@gmail.com**
-- [![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://tinyurl.com/bdre5t2s)
+- [![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://tinyurl.com/23rbrv77)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-green?style=for-the-badge&logo=github&logoColor=white)](https://mandour-portfolio.vercel.app/)
   
 ## Skills and Experience
